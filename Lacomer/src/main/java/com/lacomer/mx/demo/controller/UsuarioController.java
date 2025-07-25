@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 import com.lacomer.mx.demo.service.UsuarioService;
-import com.lacomer.mx.dto.DireccionDto;
 import com.lacomer.mx.dto.UsuarioDto;
 import com.lacomer.mx.model.Usuario;
 
